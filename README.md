@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Wilberto Dzul 👋</h1>
 <p align="center">
-  Co-fundador &amp; CTO · AI Full-Stack Engineer · Software Architect · Mérida, México 🇲🇽
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:1f6feb&height=200&section=header&text=Wilberto%20Dzul&fontSize=50&fontColor=ffffff&desc=Co-fundador%20%26%20CTO%20%C2%B7%20AI%20Full-Stack%20Engineer%20%C2%B7%20Software%20Architect&descSize=18&descAlignY=58" alt="Wilberto Dzul" width="100%" />
 </p>
 
 <p align="center">
+  📍 Mérida, México 🇲🇽 &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wilberto-dzul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:wilberto.dzul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -75,7 +75,15 @@ de varios productos SaaS multi-tenant.
 
 **Universidad Autónoma de Yucatán** — Licenciatura en Ingeniería de Software (2005–2010)
 
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wilberto-dzul&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilberto-dzul&layout=compact&hide_border=true&langs_count=8&theme=default" height="165" alt="Top languages" />
+</p>
+
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilberto-dzul/)
 [![Email](https://img.shields.io/badge/Email-wilberto.dzul%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wilberto.dzul@gmail.com)
+[![Web](https://img.shields.io/badge/Web-wilberto--dzul.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://wilberto-dzul.github.io)
