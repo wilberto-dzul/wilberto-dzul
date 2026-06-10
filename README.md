@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:1f6feb&height=200&section=header&text=Wilberto%20Dzul&fontSize=50&fontColor=ffffff&desc=Co-fundador%20%C2%B7%20CTO%20%C2%B7%20AI%20Full-Stack%20Engineer%20%C2%B7%20Software%20Architect&descSize=18&descAlignY=58" alt="Wilberto Dzul" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,100:1f6feb&height=200&section=header&text=Wilberto%20Dzul&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Co-fundador%20%C2%B7%20CTO%20%C2%B7%20AI%20Full-Stack%20Engineer%20%C2%B7%20Software%20Architect&descSize=16&descAlignY=62" alt="Wilberto Dzul" width="100%" />
 </p>
 
 <p align="center">
@@ -62,6 +62,13 @@ de varios productos SaaS multi-tenant.
 **Testing**  
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+**Arquitectura & Prácticas**  
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=flat-square)
+![Hexagonal](https://img.shields.io/badge/Hexagonal-34495E?style=flat-square)
+![DDD](https://img.shields.io/badge/DDD-16A085?style=flat-square)
+![TDD](https://img.shields.io/badge/TDD-1B7F4C?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-8E44AD?style=flat-square)
 
 ### 💼 Experiencia
 
